@@ -10,7 +10,7 @@ async function bootstrap() {
     defaultVersion: '1',
   });
   const options = new DocumentBuilder()
-    .setTitle('CSB Account Service')
+    .setTitle('Swagger API versioning example')
     .setVersion('1.0')
     .build();
 
